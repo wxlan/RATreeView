@@ -104,7 +104,7 @@
     case UITableViewStyleGrouped:
       return RATreeViewStyleGrouped;
   }
-    return RATreeViewStylePlain
+    return RATreeViewStylePlain;
 }
 #pragma mark Scroll Positions
 
